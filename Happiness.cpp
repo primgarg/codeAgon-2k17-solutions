@@ -6,6 +6,11 @@ vector <ll> g[500010],r[500010];
 void dfs(ll i)
 {
     //cout<<com<<endl;
+	
+	 
+	 
+	 
+	 
 	r[com].push_back(i);
 	//cout<<r[comp].size()<<endl;
 	vis[i]=1;
