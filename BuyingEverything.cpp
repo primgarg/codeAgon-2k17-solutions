@@ -5,7 +5,11 @@ vector <ll> v;
 int main() {
     ll n,m,k,x,ans=0,f_ans=LLONG_MAX;
     cin>>n>>m>>k;
-    for(ll i=0;i<n;i++)
+     
+	 
+	 
+	 
+	for(ll i=0;i<n;i++)
     {
         cin>>x;
         if(x==1)
