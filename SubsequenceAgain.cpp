@@ -9,7 +9,18 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     string s,temp="";
     ll k;
-    cin>>s>>k;
+    
+    
+     
+     
+     
+     
+      
+    
+     
+     
+    
+     cin>>s>>k;
     ll h[26];
     for(ll i=0;i<26;i++)
         h[i]=0;
